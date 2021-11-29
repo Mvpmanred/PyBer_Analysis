@@ -4,5 +4,6 @@
 ## Results
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/92561493/143797109-c3a6fa55-77c7-4f4a-9c5b-3e9912e0b47b.png)
 ![Capture5c1](https://user-images.githubusercontent.com/92561493/143797142-e843985f-8652-448b-bf76-6d26f95377b4.PNG)
+ 
  The first graph visually illustrates total fare by City type. There are 3 types of city: rural, suburban and urban. The second graph shows the analysis of ride-sharing data among the different city types.
-- 
+- From our analysis of the graphs, we can concude that Urban cities generate more toal fares and total rides than those of rural and suburban cities. Urban cities have total 1625 rides and total fares of $39,854.38; rural cities have 125 total rides and total fares of $4,327.93

@@ -15,4 +15,5 @@
  - Increase fare per ride by 10% in suburban cities, and that 10% extra belongs to urban drivers who willing to take rides to suburban cities.
  - Increase fare per ride by 20% in rural cities, and that 20% extra belongs to urban drivers who willing to take rides to rural cities.
  - Increase fare per ride by 2% in urban cities, in order to keep urban drivers stay working in urban cities.
+  
   We can launch this strong incentive program to encourage/deoply more drivers from urban cities to suburban and rural cities.
